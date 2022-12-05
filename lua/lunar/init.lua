@@ -10,9 +10,10 @@ M.setup = function()
   end
 
   vim.o.termguicolors = true
-  vim.g.colors_name = 'lunar'
+  vim.g.colors_name = 'lunar.wenijinew'
 
   theme.set_highlights()
 end
 
 return M
+
